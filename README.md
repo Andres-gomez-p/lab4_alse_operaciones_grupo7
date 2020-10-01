@@ -4,7 +4,7 @@ LABORATORIO 4
 
 El presente programa se deben enviar siempre 6 argumentos al ejecutar el programa. 
 El programa siempre se debe ejecutar de la siguiente manera:
-- ./lab04.bin ARG1 ARG2 ARG3 ARG4 ARG5
+- ./matrix.bin ARG1 ARG2 ARG3 ARG4 ARG5
 - En el argumento 2 y 3 se deben dar las direcciones de los archivos con las matrices a operar 
 - En el argumento 2, 3 y 4 se deben dar las direcciones con nombre incluido exacto del archivo 
 - El presente programa tiene las siguientes funciones: 
